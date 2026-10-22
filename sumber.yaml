@@ -1,0 +1,45 @@
+# Sumber lowongan JobHunter. Diedit lewat dashboard.
+
+sources:
+- nama: JobStreet
+  url: https://www.jobstreet.co.id/
+  tipe: Job board
+  catatan: Lowongan Indonesia, banyak posisi entry-mid.
+  aktif: true
+  id: jobstreet
+- nama: Glints
+  url: https://glints.com/id/opportunities/jobs/explore
+  tipe: Job board
+  catatan: ''
+  aktif: true
+  id: glints
+- nama: Kalibrr
+  url: https://www.kalibrr.com/
+  tipe: Job board
+  catatan: ''
+  aktif: true
+  id: kalibrr
+- nama: Dealls
+  url: https://dealls.com/
+  tipe: Job board
+  catatan: ''
+  aktif: true
+  id: dealls
+- nama: LinkedIn
+  url: https://www.linkedin.com/jobs/
+  tipe: Professional network
+  catatan: Cari lowongan; jangan auto-apply karena melanggar ToS.
+  aktif: true
+  id: linkedin
+- nama: Indeed
+  url: https://id.indeed.com/
+  tipe: Job board
+  catatan: ''
+  aktif: true
+  id: indeed
+- nama: Career page perusahaan
+  url: ''
+  tipe: Company career page
+  catatan: Cek langsung halaman karier perusahaan target.
+  aktif: true
+  id: career-page-perusahaan

@@ -1,0 +1,42 @@
+# Profil pelamar & kriteria lowongan.
+# Salin file ini menjadi profil.yaml, lalu isi datanya.
+# Boleh juga jalankan: python scripts/setup.py profil
+
+nama_lengkap: ""
+email_agen: ""            # Gmail khusus agen
+no_hp: ""
+kota_domisili: ""
+linkedin: ""
+portfolio: ""
+cv_path: "cv/CV.pdf"
+
+kriteria:
+  posisi: []              # contoh: ["Data Analyst", "Quality Control"]
+  lokasi: []              # contoh: ["Jakarta", "Bandung", "Remote"]
+  mode: []                # remote / hybrid / onsite
+  gaji_min: null          # angka rupiah per bulan
+  level: []               # magang / entry / junior / mid / senior
+  industri: []            # contoh: ["Kimia", "Pangan"]
+  kata_kunci_wajib: []    # contoh: ["Chemical engineering"]
+  kata_kunci_hindari: []  # contoh: ["sales", "commission only"]
+
+sumber:
+  - JobStreet
+  - Glints
+  - Kalibrr
+  - Dealls
+  - LinkedIn
+  - Indeed
+  - Career page perusahaan
+
+pengiriman:
+  mode: "draft_approval"  # draft_approval | auto_send
+  batas_per_hari: 10
+  follow_up_hari: 7
+  follow_up_maksimal: 2
+  kirim_dari_email_agen: true
+
+notifikasi:
+  telegram: false
+
+tracker: "lamaran.xlsx"

@@ -1,0 +1,24 @@
+From: {{EMAIL_AGEN}}
+To: {{EMAIL_TUJUAN}}
+Subject: Lamaran {{POSISI}} — {{NAMA}}
+
+Kepada Yth.
+Tim Rekrutmen {{PERUSAHAAN}}
+
+Salam sejahtera,
+
+Saya {{NAMA}}, {{RINGKASAN_PROFIL}}. Saya tertarik melamar posisi {{POSISI}} di {{PERUSAHAAN}} sebagaimana informasi dari {{SUMBER}}.
+
+{{PARAGRAF_RELEVANSI}}
+
+Sebagai bahan pertimbangan, saya lampirkan CV terbaru. Saya terbuka untuk diskusi lebih lanjut mengenai kualifikasi dan ketersediaan saya.
+
+Terima kasih atas waktu dan pertimbangannya.
+
+Hormat saya,
+{{NAMA}}
+{{NO_HP}}
+{{LINKEDIN}}
+{{PORTFOLIO}}
+
+<#part filename="{{CV_PATH}}" name="CV_{{NAMA_FILE}}.pdf"><#/part>

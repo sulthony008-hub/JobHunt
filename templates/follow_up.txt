@@ -1,0 +1,19 @@
+From: {{EMAIL_AGEN}}
+To: {{EMAIL_TUJUAN}}
+Subject: Follow-up Lamaran {{POSISI}} — {{NAMA}}
+
+Kepada Yth.
+Tim Rekrutmen {{PERUSAHAAN}}
+
+Salam sejahtera,
+
+Saya {{NAMA}}, melamar posisi {{POSISI}} pada {{TANGGAL_KIRIM}}. Saya ingin menanyakan perkembangan proses seleksi dan memastikan lamaran saya sudah diterima dengan baik.
+
+Saya masih sangat tertarik dengan posisi ini dan siap memberikan informasi tambahan bila diperlukan.
+
+Terima kasih atas waktu dan perhatiannya.
+
+Hormat saya,
+{{NAMA}}
+{{NO_HP}}
+{{LINKEDIN}}
